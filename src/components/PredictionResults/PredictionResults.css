@@ -1,0 +1,150 @@
+/* Contenedor principal */
+.prediction-results-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.2); /* Fondo semi-transparente */
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    color: #ffffff;
+    overflow-y: auto;
+    max-height: 85vh; /* Altura máxima */
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Estilo general del documento */
+.technical-document {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+/* Título principal */
+.doc-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #0c0075; /* Amarillo para destacar */
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    letter-spacing: 1px;
+}
+
+/* Secciones del documento */
+.doc-section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover en secciones */
+.doc-section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Encabezado de sección */
+.doc-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: #044750; /* Azul moderno */
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Lista de información */
+.doc-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Ítems de la lista */
+.doc-section li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Etiqueta (strong) y valores */
+.doc-section li strong {
+    color: #ffffff; /* Amarillo elegante */
+    font-weight: bold;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+
+.doc-section li span {
+    color: #ffffff;
+    font-weight: 500;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+/* Scroll personalizado */
+.prediction-results-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.prediction-results-container::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.prediction-results-container::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+}
+
+.prediction-results-container::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.6);
+}
+
+/* Mensajes de carga y error */
+.loading, .error, .no-data {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 20px;
+    color: #ffeb3b;
+}
+
+/* Estilo base para la viabilidad */
+.highlight-viability {
+    margin-top: 30px;
+    font-size: 1.1rem; /* Tamaño de texto ligeramente mayor */
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 8px; /* Bordes redondeados */
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+}
+
+/* Estilo para proyectos viables */
+.highlight-viability.viable {
+    background: rgba(255, 235, 59, 0.2); /* Fondo amarillo translúcido */
+    color: #ffeb3b; /* Texto amarillo brillante */
+}
+
+
+/* Estilo para proyectos no viables */
+.highlight-viability.not-viable {
+    background: rgba(255, 87, 87, 0.2); /* Fondo rojo translúcido */
+    color: #ff4c4c; /* Texto rojo brillante */
+    font-size: 22px;
+}
+
+/* Efecto hover general */
+.highlight-viability:hover {
+    transform: scale(1.02); /* Efecto ligero de escala */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
