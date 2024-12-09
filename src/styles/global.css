@@ -6,11 +6,15 @@ body {
     background: linear-gradient(-45deg, #2e2e2e, #2d572c, #6c7a89, #46443e);
     background-size: 400% 400%;
     animation: gradientAnimation 20s ease infinite;
-    overflow: hidden; /* Para ocultar el desbordamiento de partículas */
     position: relative;
     color: #ffffff; /* Asegura texto blanco */
+    overflow-y: scroll; /* Mantener la funcionalidad de scroll */
+    scrollbar-width: none; /* Oculta el scroll en Firefox */
+    
 }
-
+body::-webkit-scrollbar {
+    display: none; /* Oculta el scroll en navegadores basados en WebKit (Chrome, Edge, Safari) */
+}
 /* Animación de fondo degradado */
 @keyframes gradientAnimation {
     0% {

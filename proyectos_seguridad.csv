@@ -1,0 +1,51 @@
+codigo_unico,nombre_proyecto,responsable,fecha_inicio,departamento,distrito,objetivo,monto_viable,costo_actualizado,situacion,estado,nivel,funcion,sector
+SEC-011,Incrementar la seguridad ciudadana,Luis Gutiérrez,2023-05-08,Piura,Sullana,Reducir los índices de delincuencia,37826,18808,0,0,1,1,1
+SEC-012,Prevenir actividades delictivas,Pedro Sánchez,2023-03-07,Arequipa,Cercado,Fortalecer la cooperación comunitaria,32945,3488,0,0,2,2,0
+SEC-013,Fortalecer la cooperación comunitaria,Luis Gutiérrez,2021-02-08,Piura,Tambogrande,Prevenir actividades delictivas,35091,4069,1,1,1,1,1
+SEC-014,Incrementar la seguridad ciudadana,Juan Pérez,2024-12-07,Arequipa,Yanahuara,Prevenir actividades delictivas,15803,25091,0,0,2,2,0
+SEC-015,Prevenir actividades delictivas,Ana Martínez,2021-04-04,Piura,Tambogrande,Reducir los índices de delincuencia,2571,35550,1,1,0,2,0
+SEC-016,Fortalecer la cooperación comunitaria,Pedro Sánchez,2024-08-26,Trujillo,La Esperanza,Incrementar la seguridad ciudadana,5045,47074,1,1,2,0,2
+SEC-017,Fortalecer la cooperación comunitaria,Ana Martínez,2022-05-23,Piura,Castilla,Prevenir actividades delictivas,42566,3638,0,1,2,2,0
+SEC-018,Prevenir actividades delictivas,Ana Martínez,2025-06-01,Lima,Miraflores,Prevenir actividades delictivas,4085,18396,0,1,0,1,2
+SEC-019,Fortalecer la cooperación comunitaria,Pedro Sánchez,2024-01-13,Arequipa,Paucarpata,Fortalecer la cooperación comunitaria,10781,16350,1,1,1,1,1
+SEC-020,Prevenir actividades delictivas,Pedro Sánchez,2025-09-23,Arequipa,Cayma,Mejorar la capacidad de respuesta,37178,25762,0,0,2,1,1
+SEC-021,Mejorar la capacidad de respuesta,Ana Martínez,2024-08-25,Cusco,Cusco,Fortalecer la cooperación comunitaria,1875,14195,1,1,0,0,1
+SEC-022,Reducir los índices de delincuencia,Luis Gutiérrez,2021-03-04,Cusco,San Jerónimo,Reducir los índices de delincuencia,47266,13007,0,0,0,2,1
+SEC-023,Incrementar la seguridad ciudadana,Pedro Sánchez,2025-07-11,Trujillo,Florencia de Mora,Prevenir actividades delictivas,45143,4841,0,0,2,0,0
+SEC-024,Prevenir actividades delictivas,Juan Pérez,2021-09-30,Piura,Sullana,Fortalecer la cooperación comunitaria,19109,43205,0,1,1,2,1
+SEC-025,Mejorar la capacidad de respuesta,Ana Martínez,2021-02-09,Piura,Sullana,Fortalecer la cooperación comunitaria,3190,4172,0,1,0,1,2
+SEC-026,Mejorar la capacidad de respuesta,María López,2020-05-07,Trujillo,El Porvenir,Fortalecer la cooperación comunitaria,3714,14224,0,1,0,2,1
+SEC-027,Incrementar la seguridad ciudadana,Luis Gutiérrez,2025-11-02,Trujillo,La Esperanza,Mejorar la capacidad de respuesta,13988,50630,1,1,0,2,1
+SEC-028,Prevenir actividades delictivas,María López,2020-08-22,Lima,Chorrillos,Prevenir actividades delictivas,31775,57054,1,1,2,2,2
+SEC-029,Mejorar la capacidad de respuesta,Pedro Sánchez,2021-08-08,Cusco,Cusco,Mejorar la capacidad de respuesta,25080,21412,0,1,2,1,2
+SEC-030,Prevenir actividades delictivas,Luis Gutiérrez,2024-12-29,Lima,Miraflores,Prevenir actividades delictivas,35758,25645,1,0,2,1,1
+SEC-031,Fortalecer la cooperación comunitaria,Ana Martínez,2024-02-14,Trujillo,Víctor Larco Herrera,Mejorar la capacidad de respuesta,41471,28296,0,1,1,2,0
+SEC-032,Incrementar la seguridad ciudadana,Juan Pérez,2025-06-06,Piura,Tambogrande,Prevenir actividades delictivas,17366,57231,0,1,0,0,2
+SEC-033,Mejorar la capacidad de respuesta,Juan Pérez,2023-02-28,Lima,Barranco,Reducir los índices de delincuencia,4242,38660,1,0,2,2,1
+SEC-034,Fortalecer la cooperación comunitaria,María López,2023-03-02,Lima,Miraflores,Reducir los índices de delincuencia,26468,6941,1,0,2,0,2
+SEC-035,Prevenir actividades delictivas,Pedro Sánchez,2020-09-13,Arequipa,Cayma,Incrementar la seguridad ciudadana,23551,58700,1,1,1,2,1
+SEC-036,Fortalecer la cooperación comunitaria,Luis Gutiérrez,2022-08-06,Arequipa,Paucarpata,Reducir los índices de delincuencia,13458,58035,0,0,1,1,2
+SEC-037,Prevenir actividades delictivas,Pedro Sánchez,2021-06-02,Piura,Talara,Prevenir actividades delictivas,30960,49607,0,1,2,0,1
+SEC-038,Prevenir actividades delictivas,Juan Pérez,2025-03-22,Trujillo,Víctor Larco Herrera,Incrementar la seguridad ciudadana,35638,20753,0,1,1,1,2
+SEC-039,Fortalecer la cooperación comunitaria,Ana Martínez,2025-03-15,Cusco,Wanchaq,Prevenir actividades delictivas,34528,13499,0,0,2,0,0
+SEC-040,Mejorar la capacidad de respuesta,Pedro Sánchez,2020-12-19,Piura,Castilla,Incrementar la seguridad ciudadana,11470,6003,1,1,1,1,2
+SEC-041,Prevenir actividades delictivas,María López,2020-03-13,Lima,Barranco,Prevenir actividades delictivas,44679,28362,0,0,1,2,0
+SEC-042,Fortalecer la cooperación comunitaria,María López,2024-04-05,Lima,San Isidro,Incrementar la seguridad ciudadana,40196,56258,1,0,1,0,2
+SEC-043,Fortalecer la cooperación comunitaria,Pedro Sánchez,2023-08-15,Arequipa,Cercado,Mejorar la capacidad de respuesta,47958,29826,0,0,1,0,2
+SEC-044,Reducir los índices de delincuencia,Ana Martínez,2025-05-07,Piura,Catacaos,Prevenir actividades delictivas,36504,11065,0,0,2,2,0
+SEC-045,Reducir los índices de delincuencia,Juan Pérez,2024-11-12,Trujillo,Víctor Larco Herrera,Prevenir actividades delictivas,38119,35204,1,0,1,2,1
+SEC-046,Mejorar la capacidad de respuesta,Pedro Sánchez,2020-12-10,Lima,Miraflores,Reducir los índices de delincuencia,32819,35184,0,0,1,2,0
+SEC-047,Prevenir actividades delictivas,Ana Martínez,2024-06-20,Cusco,San Sebastián,Mejorar la capacidad de respuesta,17223,16852,1,1,1,1,0
+SEC-048,Fortalecer la cooperación comunitaria,María López,2020-02-13,Arequipa,Cercado,Incrementar la seguridad ciudadana,9654,42899,1,0,1,1,2
+SEC-049,Incrementar la seguridad ciudadana,María López,2021-12-25,Lima,Surco,Prevenir actividades delictivas,32079,56158,1,1,0,2,1
+SEC-050,Incrementar la seguridad ciudadana,Pedro Sánchez,2025-09-07,Arequipa,Cercado,Prevenir actividades delictivas,41014,12613,0,1,0,2,0
+SEC-051,Prevenir actividades delictivas,Juan Pérez,2023-09-15,Piura,Catacaos,Mejorar la capacidad de respuesta,15705,38395,0,0,0,0,2
+SEC-052,Reducir los índices de delincuencia,Ana Martínez,2022-09-01,Arequipa,Paucarpata,Incrementar la seguridad ciudadana,31745,18009,1,0,1,1,0
+SEC-053,Fortalecer la cooperación comunitaria,Luis Gutiérrez,2020-08-03,Lima,Surco,Reducir los índices de delincuencia,35498,13545,0,1,0,0,1
+SEC-054,Fortalecer la cooperación comunitaria,Ana Martínez,2024-03-01,Piura,Castilla,Prevenir actividades delictivas,30971,4215,1,1,1,1,1
+SEC-055,Prevenir actividades delictivas,Pedro Sánchez,2022-09-13,Arequipa,Cercado,Prevenir actividades delictivas,46411,42242,1,0,2,2,1
+SEC-056,Incrementar la seguridad ciudadana,Juan Pérez,2023-11-04,Arequipa,Cayma,Reducir los índices de delincuencia,5540,11954,1,0,0,1,1
+SEC-057,Fortalecer la cooperación comunitaria,Pedro Sánchez,2024-04-02,Lima,Chorrillos,Mejorar la capacidad de respuesta,18248,18165,0,0,0,1,2
+SEC-058,Prevenir actividades delictivas,Luis Gutiérrez,2020-09-14,Piura,Castilla,Incrementar la seguridad ciudadana,23017,24769,0,1,0,0,1
+SEC-059,Prevenir actividades delictivas,Ana Martínez,2021-08-17,Piura,Tambogrande,Prevenir actividades delictivas,35718,35925,1,1,1,1,2
+SEC-060,Mejorar la capacidad de respuesta,Pedro Sánchez,2025-09-12,Cusco,Cusco,Reducir los índices de delincuencia,20657,34294,0,0,1,2,1
